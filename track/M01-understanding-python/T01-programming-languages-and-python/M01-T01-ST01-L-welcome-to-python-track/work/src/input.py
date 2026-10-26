@@ -32,4 +32,4 @@ print(f"The sum of {first} and {second} is {first + second}")
     # Enter the second number: 11
     # The sum of 11 and 11 is 22
 print(type(first))
-    # <class 'int'>
+    # <class 'float'>

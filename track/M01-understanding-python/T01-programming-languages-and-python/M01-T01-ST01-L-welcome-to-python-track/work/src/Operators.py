@@ -69,7 +69,7 @@ print(a not in b)   #False
 #Bitwise Operators
 a = 2
 b = 3
-print(a & b)    #0       #and          
+print(a & b)    #2       #and          
 print(a | b)    #3       #or
 print(a ^ b)    #1       #xor
 a = 5
